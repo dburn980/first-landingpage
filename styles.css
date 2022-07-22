@@ -134,7 +134,47 @@ a {
   margin-top: 20px;
 }
 
+.advertisement-signup-section {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.ad-box {
+  display: flex;
+  justify-content: space-between;
+  background-color: #3882f6;
+  width: 1000px;
+  padding: 50px 100px;
+  box-sizing: border-box;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.ad-text strong {
+  color: #f9faf8;
+  font-size: 20px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.ad-text p {
+  color: #e5e7eb;
+  padding: 0px;
+  margin: 0px;
+}
+
+.ad-box button {
+  color: #f9faf8;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #3882f6;
+  border-radius: 5px;
+  border-style: solid;
+  padding: 5px 30px;
+  border-width: 3px;
+}
 
 .footer {
   display: flex;
