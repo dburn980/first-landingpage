@@ -109,6 +109,33 @@ a {
   text-decoration: dotted underline;
 }
 
+.quote-section {
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e5e7eb;
+}
+
+.quote-container {
+  max-width: 1000px;
+}
+
+.quote-container em {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 100;
+}
+
+.quote-container strong {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 26px;
+  margin-top: 20px;
+}
+
+
+
 .footer {
   display: flex;
   flex: 0 0 auto;
