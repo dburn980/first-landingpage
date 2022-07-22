@@ -4,3 +4,11 @@ This is my first landing page made from scratch that will probably be added on t
 
 Image credits below (all sourced from free stock image sites):
 Logo: https://www.freepik.com/free-vector/logo-branding-identity-corporate-vector-design_24154618.htm#query=logo&position=10&from_view=keyword
+
+Venus: https://pixabay.com/photos/venus-surface-hot-heat-planet-11022/
+
+No sound: https://www.freepik.com/free-icon/no-sound_15515803.htm#query=mute%20symbol&position=42&from_view=keyword
+
+55 Cancri e: https://www.shutterstock.com/image-illustration/lava-planet-3d-rendering-1660647865
+
+AU: https://www.shutterstock.com/image-vector/fun-educational-vector-illustration-star-planet-775160950
