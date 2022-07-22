@@ -12,3 +12,5 @@ No sound: https://www.freepik.com/free-icon/no-sound_15515803.htm#query=mute%20s
 55 Cancri e: https://www.shutterstock.com/image-illustration/lava-planet-3d-rendering-1660647865
 
 AU: https://www.shutterstock.com/image-vector/fun-educational-vector-illustration-star-planet-775160950
+
+Description space picture: https://www.pexels.com/photo/gray-and-black-galaxy-wallpaper-2150/
