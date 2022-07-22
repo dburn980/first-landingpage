@@ -75,6 +75,40 @@ a {
   width: 200px;
 }
 
+.information-section {
+  text-align: center;
+  padding: 48px;
+}
+
+.information-container {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.information-title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+  margin-bottom: 36px;
+}
+
+.information-container img {
+  height: 100px;
+  width: 150px;
+  border-radius: 25px;
+  border: 7px solid #3882f6;
+}
+
+.information-container .info {
+  max-width: 250px;
+}
+
+.information-container a {
+  color: black;
+  text-decoration: dotted underline;
+}
+
 .footer {
   display: flex;
   flex: 0 0 auto;
